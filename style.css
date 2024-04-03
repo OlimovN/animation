@@ -1,0 +1,25 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: antiquewhite;
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    color: red;
+    font-size: 8em;
+}
+p {
+    padding: 20px;
+    display: flex;
+    gap: 50px;
+    font-size: 4em;
+}
+
+a {
+    color: black;
+    border: 3px solid #262626;
+}
